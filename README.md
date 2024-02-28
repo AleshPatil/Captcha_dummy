@@ -1,2 +1,3 @@
 # Captcha_dummy
-Mathematical Captcha Generator
+Mathematical Captcha Generator.
+#FrontEnd Technogies : HTML, CSS, JavaScript
